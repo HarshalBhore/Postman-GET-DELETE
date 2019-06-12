@@ -2,7 +2,7 @@
   "name": "postman-newman-github",
   "version": "1.0.0",
   "description": "Storing potman test data",
-  ,
+  
   "directories": {
     "test": "tests"
   },
