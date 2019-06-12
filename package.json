@@ -1,0 +1,17 @@
+{
+  "name": "postman-newman-github",
+  "version": "1.0.0",
+  "description": "Storing potman test data",
+  ,
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "api-test-production": "newman rin tests/JSONplaceholder.com.postman_collection.json"
+  },
+  "author": "Harshal Bhore",
+  
+  "dependencies": {
+    "newman": "^4.5.0"
+  }
+}
